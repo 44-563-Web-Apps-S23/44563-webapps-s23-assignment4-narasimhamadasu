@@ -1,0 +1,32 @@
+.speech
+{
+    color:black;
+    font-style: Times New Roman;
+    font-size: 15px;
+}
+
+.direction
+{
+    color:rgb(225, 46, 15);
+    font-style:Cambria;
+    font-size:10px;
+    background-color:rgb(177, 208, 214);
+}
+.direction:hover 
+{
+    color:black;
+    background-color: rgb(240, 163, 163);
+}
+
+.ZAMA
+{
+    background-color:rgb(29, 123, 123);
+    font-style: italic;
+    font-size: 15px;
+}
+.rick
+{
+    background-color:rgb(28, 57, 154);
+    font-style: italic;
+    font-size: 15px;
+}
