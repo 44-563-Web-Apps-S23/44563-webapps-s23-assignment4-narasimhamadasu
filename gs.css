@@ -58,4 +58,21 @@ tr:nth-child(even){
 tr:nth-child(odd) {
     background-color: rgb(21, 145, 122);
 }
+.ZAMA:hover
+{
+    width:100px;
+    height: 50px;
+    box-shadow:10px 10px 5px #60a060;
+    font-size: 15px;
+    padding: 3px;
+}
+.rick:hover
+{
+    width:100px;
+    height: 50px;
+    box-shadow:10px 10px 5px #bdc7bd;
+    font-size: 15px;
+    padding: 3px;
+}
+
 
