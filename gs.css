@@ -88,5 +88,6 @@ tr:nth-child(odd) {
     float: left;
     background-color: darkgoldenrod;
     border: 1px solid;
+    color: aqua;
 }
 
