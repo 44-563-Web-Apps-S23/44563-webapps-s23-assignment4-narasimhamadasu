@@ -74,5 +74,19 @@ tr:nth-child(odd) {
     font-size: 15px;
     padding: 3px;
 }
+.nav ul{
+    background-color: black;
+    list-style-type: none;
+    width: 60px;
+    padding: 5px;
+    margin: 5px solid;
 
+}
+.nav li{
+    list-style-type: none;
+    display: block;
+    float: left;
+    background-color: darkgoldenrod;
+    border: 1px solid;
+}
 
