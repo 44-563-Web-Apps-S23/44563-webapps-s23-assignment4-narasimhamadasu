@@ -75,7 +75,6 @@ tr:nth-child(odd) {
     padding: 3px;
 }
 .nav ul{
-    background-color: black;
     list-style-type: none;
     width: 60px;
     padding: 5px;
